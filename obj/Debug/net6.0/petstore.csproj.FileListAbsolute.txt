@@ -1,0 +1,15 @@
+C:\Users\dwing\source\repos\petstore\bin\Debug\net6.0\petstore.exe
+C:\Users\dwing\source\repos\petstore\bin\Debug\net6.0\petstore.deps.json
+C:\Users\dwing\source\repos\petstore\bin\Debug\net6.0\petstore.runtimeconfig.json
+C:\Users\dwing\source\repos\petstore\bin\Debug\net6.0\petstore.dll
+C:\Users\dwing\source\repos\petstore\bin\Debug\net6.0\petstore.pdb
+C:\Users\dwing\source\repos\petstore\obj\Debug\net6.0\petstore.csproj.AssemblyReference.cache
+C:\Users\dwing\source\repos\petstore\obj\Debug\net6.0\petstore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dwing\source\repos\petstore\obj\Debug\net6.0\petstore.AssemblyInfoInputs.cache
+C:\Users\dwing\source\repos\petstore\obj\Debug\net6.0\petstore.AssemblyInfo.cs
+C:\Users\dwing\source\repos\petstore\obj\Debug\net6.0\petstore.csproj.CoreCompileInputs.cache
+C:\Users\dwing\source\repos\petstore\obj\Debug\net6.0\petstore.dll
+C:\Users\dwing\source\repos\petstore\obj\Debug\net6.0\refint\petstore.dll
+C:\Users\dwing\source\repos\petstore\obj\Debug\net6.0\petstore.pdb
+C:\Users\dwing\source\repos\petstore\obj\Debug\net6.0\petstore.genruntimeconfig.cache
+C:\Users\dwing\source\repos\petstore\obj\Debug\net6.0\ref\petstore.dll
